@@ -2,7 +2,7 @@ package com.juanra.wk.stats.dao;
 
 import java.util.ResourceBundle;
 
-import com.juanra.wk.stats.model.Config;
+import com.juanra.wk.stats.config.Config;
 import com.juanra.wk.stats.model.Estadistica;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;

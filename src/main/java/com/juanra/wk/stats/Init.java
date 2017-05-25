@@ -1,6 +1,6 @@
 package com.juanra.wk.stats;
 
-import com.juanra.wk.stats.model.Config;
+import com.juanra.wk.stats.config.Config;
 import com.juanra.wk.stats.model.EstadisticasConstants;
 import com.juanra.wk.stats.service.EstadisticaService;
 
@@ -130,7 +130,9 @@ public class Init {
 		init.setJornada1(0);
 		init.setJornada2(0);
 		
-		//Esta parametrizado por lo que no seria necesario
+		//Esta parametrizado por lo que no seria necesario en fichero 
+		//de configuracion
+		//Linea deprecada
 		//init.setCleaning(true);
 
 		//Iniciar proceso

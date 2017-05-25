@@ -1,8 +1,8 @@
 package com.juanra.wk.stats.service;
 
+import com.juanra.wk.stats.config.Config;
 import com.juanra.wk.stats.dao.EstadisticaDAOJSONImpl;
 import com.juanra.wk.stats.dao.EstadisticaDAOMongoDBImpl;
-import com.juanra.wk.stats.model.Config;
 import com.juanra.wk.stats.model.Estadistica;
 import com.juanra.wk.stats.model.EstadisticasConstants;
 

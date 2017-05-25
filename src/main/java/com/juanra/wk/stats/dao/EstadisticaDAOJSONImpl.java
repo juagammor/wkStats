@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.ResourceBundle;
 
-import com.juanra.wk.stats.model.Config;
+import com.juanra.wk.stats.config.Config;
 import com.juanra.wk.stats.model.Estadistica;
 
 /**

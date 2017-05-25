@@ -1,4 +1,4 @@
-package com.juanra.wk.stats.model;
+package com.juanra.wk.stats.config;
 
 import java.util.ResourceBundle;
 
@@ -10,7 +10,7 @@ import java.util.ResourceBundle;
  */
 public class Config {
 
-	private static final String RUTA_BUNDLE = "com/juanra/wk/stats/model/config";
+	private static final String RUTA_BUNDLE = "com/juanra/wk/stats/config/config";
 
 	private static Config instance;
 	private ResourceBundle bundle;
